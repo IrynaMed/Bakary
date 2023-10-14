@@ -1,58 +1,54 @@
 /*base*/
-body{
-    color: #31261A;
+body {
+  color: #31261a;
 }
-
 
 /*button*/
 
-
-ul{
-    list-style-type: none;
+ul {
+  list-style-type: none;
 }
-.button{
-    color: faf4ea;
-        background-color: #819B57;
-        border: 2px solid #819B57;
-        border-radius: 8px;
-        cursor: pointer;
+.button {
+  color: faf4ea;
+  background-color: #819b57;
+  border: 2px solid #819b57;
+  border-radius: 8px;
+  cursor: pointer;
 }
 
 .button:hover {
-    color: #819B57;
-    background-color: transparent;
+  color: #819b57;
+  background-color: transparent;
 }
 /*link*/
 
-
-.link{
-    color: #faf4ea;
-    
+.link {
+  color: #faf4ea;
 }
 
-.link :hover{
-    color: #819B57;
+.link:hover {
+  color: #819b57;
 }
 
-.hero-title{
-    color: #faf4ea;
+.hero-title {
+  color: #faf4ea;
 }
 /*hero section*/
 
 .hero-title .accent {
-color: #819B57;
+  color: #819b57;
 }
 
 /*advantages*/
 
 .advantage list {
-    color: #faf4ea;
-    background-color: #819B57;
+  color: #faf4ea;
+  background-color: #819b57;
 }
 
-.section title{
-    color: #31261A
+.section title {
+  color: #31261a;
 }
 .section title .accent {
-color: #819B57;
+  color: #819b57;
 }
